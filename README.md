@@ -7,6 +7,11 @@ Im Moment im profile branch arbeiten (mit *git push origin profile* pushen).
 ## Nützliche Informationen zu Git:
 ### https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
 ```
+Die erste Konfiguration
+git config --global user.name "your_username"
+git config --global user.email "your_email_address@example.com"
+
+
 git add .
 (-> alle geänderten Dateien werden hinzugefügt - kann jedoch manchmal nicht klappen, 
 daher eher alle einzelnd hinzufügen)
