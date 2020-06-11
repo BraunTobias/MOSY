@@ -1,6 +1,8 @@
 # MOSY
 ## Info an uns:
-:exclamation: Den master branch und profile branch bitte erstmal so lassen (**nicht** mit *git push origin master* oder *git push origin profile* pushen). :exclamation: <br>
+:exclamation: Den master branch und profile branch bitte erstmal so lassen 
+<br> (**nicht** mit *git push origin master* oder *git push origin profile* pushen). :exclamation: <br>
+
 Im Moment im database branch arbeiten (mit *git push origin database* pushen).
 
 
@@ -23,7 +25,7 @@ git add screens/ProfileScreen.js
 (-> commit bestätigen)
 
 3) git push origin branchname 
-(Beispiel: git push origin master
+(Beispiel: git push origin master)
 (-> lädt alle Änderungen auf GitHub.com hoch)
 
 git status 		(-> aktuelle Änderungen ansehen)
