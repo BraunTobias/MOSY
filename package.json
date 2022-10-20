@@ -33,7 +33,7 @@
     "react-native-gesture-handler": "^1.6.1",
     "react-native-image-to-blob": "0.0.6",
     "react-native-numeric-input": "^1.8.3",
-    "react-native-reanimated": "^1.8.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^1.0.0",
     "react-native-screens": "^2.7.0",
     "react-native-swipe-list-view": "^3.1.3",
